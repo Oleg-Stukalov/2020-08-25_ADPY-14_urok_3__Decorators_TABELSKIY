@@ -31,9 +31,9 @@ def concat(str_1, str_2):
     return f'{str_1}{str_2}'
 
 
-print(concat('abc', 'erd'))
-print(concat('abc', 'erd1'))
-print(concat('abc', 'erd2'))
-print(concat('abc', 'erd3'))
-print(concat('abc', 'erd4'))
-print(concat('abc', 'erd5'))
+print(concat('abc', 'erd'), '\n')
+print(concat('abc', 'erd1'), '\n')
+print(concat('abc', 'erd2'), '\n')
+print(concat('abc', 'erd3'), '\n')
+print(concat('abc', 'erd4'), '\n')
+print(concat('abc', 'erd5'), '\n')

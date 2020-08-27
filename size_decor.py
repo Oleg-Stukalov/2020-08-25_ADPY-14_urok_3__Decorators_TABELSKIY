@@ -59,6 +59,14 @@ def foo2(n):
 
 
 if __name__ == '__main__':
+    print('***foo()')
     foo()
+    print()
+
+    print('***foo2(10)')
     foo2(10)
+    print()
+
+    print('***foo2(100000)')
     foo2(100000)
+    print()
